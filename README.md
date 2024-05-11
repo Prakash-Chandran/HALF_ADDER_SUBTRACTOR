@@ -72,10 +72,15 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ![3 1](https://github.com/Prakash-Chandran/HALF_ADDER_SUBTRACTOR/assets/147120899/12d925d3-90ac-4286-91c8-eb1c19bc65a7)
 
 **Output/TIMING Waveform**
+
 ![3 2](https://github.com/Prakash-Chandran/HALF_ADDER_SUBTRACTOR/assets/147120899/5df4e63d-3ca1-48f3-8fd1-5583882cb247)
+
 ![3 3](https://github.com/Prakash-Chandran/HALF_ADDER_SUBTRACTOR/assets/147120899/7887ae64-afd2-4d08-9695-a8560d027d53)
 
 **Result:**
+
+The code is excecuted successfully.
